@@ -13,7 +13,7 @@
 - Vetor de ataque: ``` Web Site Attack Vectors ```
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
-- Obtendo o endereço da máquina: ``` ifconfig ```
+- Própio setoolkit já disponibiliza seu ip aperte enter
 - URL para clone: http://www.facebook.com
 
 ### Resutados
