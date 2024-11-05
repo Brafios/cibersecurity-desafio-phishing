@@ -15,6 +15,7 @@
 - Método de ataque: ``` Site Cloner ```
 - Própio setoolkit já disponibiliza seu ip aperte enter
 - URL para clone: http://www.facebook.com
+- Preferencialmente bote ou numa guia anonima ou numa maquina virtual para testar botando IP que foi colocado depois coloque o mesmo no campo de pesquisa
 
 ### Resutados
 
